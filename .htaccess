@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile Portfolio/.htpasswd
+AuthUserFile .htaccess
 require valid-user
